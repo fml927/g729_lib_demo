@@ -8,9 +8,9 @@ fi
 
 
 echo  copy static library to here
-if [ -f ../g729_lib/libg729b.a  ]
+if [ -f ../g729/libg729b.a  ]
 then
-	cp ../g729_lib/libg729b.a  ./
+	cp ../g729/libg729b.a  ./
 fi
 
 
