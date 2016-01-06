@@ -1,7 +1,7 @@
 #readme
 
 * this is a demo of use g729 project. this demo can dependently compiled and create an executed file named g729_coder.
-* if existing "autogen.sh" can copy new library file "libg729b.a" from "../g729_lib"
+* if existing "autogen.sh" can copy new library file "libg729b.a" from "../g729"
 
 * compile step:
 	* ./autogen.sh

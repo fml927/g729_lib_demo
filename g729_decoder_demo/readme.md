@@ -1,6 +1,6 @@
 #readme
 
-* this is a demo of use g729 project. this demo can dependently compiled and create an executed file named g729_coder.
+* this is a compiled demo of use g729 project. this demo can dependently compiled and create an executed file named g729_decoder.
 * if existing "autogen.sh" can copy new library file "libg729b.a" from "../g729_lib"
 
 * compile step:
@@ -11,7 +11,7 @@
 
 * compile this demo need install "autoconf" and "automake" tools,about this tools youcan read intruduction on https://www.ibm.com/developerworks/cn/linux/l-makefile/
 
-* you can use "g729_coder" as a tool derictly!
+* you can use "g729_decoder" as a tool derictly!
 
 
 
