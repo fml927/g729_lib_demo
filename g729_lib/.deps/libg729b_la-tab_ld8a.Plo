@@ -1,0 +1,7 @@
+libg729b_la-tab_ld8a.lo: tab_ld8a.c typedef.h ld8a.h tab_ld8a.h
+
+typedef.h:
+
+ld8a.h:
+
+tab_ld8a.h:

@@ -1,0 +1,12 @@
+libg729b_a-taming.o: taming.c typedef.h basic_op.h oper_32b.h ld8a.h \
+ tab_ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+oper_32b.h:
+
+ld8a.h:
+
+tab_ld8a.h:

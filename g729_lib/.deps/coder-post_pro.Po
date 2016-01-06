@@ -1,0 +1,12 @@
+coder-post_pro.o: post_pro.c typedef.h basic_op.h oper_32b.h ld8a.h \
+ tab_ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+oper_32b.h:
+
+ld8a.h:
+
+tab_ld8a.h:

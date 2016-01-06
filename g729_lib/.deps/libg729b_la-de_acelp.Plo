@@ -1,0 +1,7 @@
+libg729b_la-de_acelp.lo: de_acelp.c typedef.h basic_op.h ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:

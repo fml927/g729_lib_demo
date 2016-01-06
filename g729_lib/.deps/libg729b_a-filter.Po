@@ -1,0 +1,7 @@
+libg729b_a-filter.o: filter.c typedef.h basic_op.h ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:

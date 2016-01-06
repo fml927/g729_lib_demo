@@ -1,0 +1,7 @@
+coder-oper_32b.o: oper_32b.c typedef.h basic_op.h oper_32b.h
+
+typedef.h:
+
+basic_op.h:
+
+oper_32b.h:

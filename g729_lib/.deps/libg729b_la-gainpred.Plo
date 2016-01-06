@@ -1,0 +1,12 @@
+libg729b_la-gainpred.lo: gainpred.c typedef.h basic_op.h ld8a.h \
+ tab_ld8a.h oper_32b.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:
+
+tab_ld8a.h:
+
+oper_32b.h:

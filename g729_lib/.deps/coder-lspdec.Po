@@ -1,0 +1,9 @@
+coder-lspdec.o: lspdec.c typedef.h ld8a.h basic_op.h tab_ld8a.h
+
+typedef.h:
+
+ld8a.h:
+
+basic_op.h:
+
+tab_ld8a.h:

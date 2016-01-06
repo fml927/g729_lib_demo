@@ -1,0 +1,7 @@
+coder-p_parity.o: p_parity.c typedef.h basic_op.h ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:

@@ -1,0 +1,7 @@
+libg729b_la-oper_32b.lo: oper_32b.c typedef.h basic_op.h oper_32b.h
+
+typedef.h:
+
+basic_op.h:
+
+oper_32b.h:

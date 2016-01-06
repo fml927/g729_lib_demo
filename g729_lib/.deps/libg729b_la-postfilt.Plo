@@ -1,0 +1,10 @@
+libg729b_la-postfilt.lo: postfilt.c typedef.h basic_op.h ld8a.h \
+ oper_32b.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:
+
+oper_32b.h:

@@ -1,0 +1,10 @@
+libg729b_la-pred_lt3.lo: pred_lt3.c typedef.h basic_op.h ld8a.h \
+ tab_ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:
+
+tab_ld8a.h:

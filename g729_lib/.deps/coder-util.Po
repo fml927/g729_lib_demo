@@ -1,0 +1,7 @@
+coder-util.o: util.c typedef.h basic_op.h ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:

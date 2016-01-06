@@ -1,0 +1,7 @@
+libg729_a-cor_func.o: cor_func.c typedef.h basic_op.h ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:

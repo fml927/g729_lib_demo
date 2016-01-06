@@ -1,0 +1,7 @@
+coder-dec_lag3.o: dec_lag3.c typedef.h basic_op.h ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:

@@ -1,0 +1,7 @@
+coder-tab_ld8a.o: tab_ld8a.c typedef.h ld8a.h tab_ld8a.h
+
+typedef.h:
+
+ld8a.h:
+
+tab_ld8a.h:

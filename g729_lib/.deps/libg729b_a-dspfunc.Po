@@ -1,0 +1,9 @@
+libg729b_a-dspfunc.o: dspfunc.c typedef.h basic_op.h ld8a.h tab_ld8a.h
+
+typedef.h:
+
+basic_op.h:
+
+ld8a.h:
+
+tab_ld8a.h:
